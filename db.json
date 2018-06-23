@@ -1,14 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"product":[
+{
+  "product_name": "Phone",
+  "mobile_number": 9742877887,
+  "customer_name": "Sushen",
+  "email": "sushen.birari@gmail.com",
+  "address": "Mumbai",
+  "status": "Active",
+  "generate_bill_date": "2018-06-22T04:22:11.019Z",
+  "due_bill_date": "2018-06-22T04:22:11.019Z",
+  "total_amount": 300,
+  "id":1
+},
+{
+  "product_name": "Broadband",
+  "mobile_number": 9960717887,
+  "customer_name": "Priyanka",
+  "email": "priyanka.birari@gmail.com",
+  "address": "Nashik",
+  "status": "Active",
+  "generate_bill_date": "2018-06-22T04:22:11.019Z",
+  "due_bill_date": "2018-06-22T04:22:11.019Z",
+  "total_amount": 400,
+  "id":2
+},
+{
+  "product_name": "Digital TV",
+  "mobile_number": 9420651112,
+  "customer_name": "Sunit",
+  "email": "sunit.birari@gmail.com",
+  "address": "Pune",
+  "status": "Active",
+  "generate_bill_date": "2018-06-22T04:22:11.019Z",
+  "due_bill_date": "2018-06-22T04:22:11.019Z",
+  "total_amount": 600,
+  "id":3
+}
+]
 }
