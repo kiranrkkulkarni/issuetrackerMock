@@ -1,4 +1,5 @@
-[{
+{
+  "product":[{
   "product_name": "Phone",
   "mobile_number": 9742877887,
   "customer_name": "Sushen",
@@ -31,3 +32,4 @@
   "due_bill_date": "2018-06-22T04:22:11.019Z",
   "total_amount": 600
 }]
+}
